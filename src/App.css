@@ -56,9 +56,21 @@ form button:hover {
   align-items: center;
   transition: all 1s ease;
 }
+
+
+.todo-input {
+  padding: 0.5rem;
+  font-size: 2rem;
+  border: none;
+  background: white;
+}
+
+
 .filter-todo {
   padding: 1rem;
 }
+
+
 .todo li {
   flex: 1;
 }
